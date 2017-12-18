@@ -1,0 +1,1648 @@
+2017.12.13 07:51:05.254 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 07:51:16.114 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1275296--------------------
+2017.12.13 07:51:16.114 INFORMATION   
+AccountStatus: Active
+AccountNumber: 21372580
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: LAZAR MILIĆ
+AccountFirstName: LAZAR
+AccountLastName: MILIĆ
+PrimaryContactFirstName: LAZAR
+PrimaryContactLastName: MILIĆ
+BirthDate: 5/21/1992 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: KRUŠEVAC
+PrimaryContactDocumentIdIssueDate: 2015-10-05
+PrimaryContactDocumentIdNum: 007337366
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 10/5/2025 12:00:00 AM
+PrimaryContactJMBG: 2105992914754
+PrimaryContactPhoneNum: +381645501481
+EmailAddress: lazarpmilic@outlook.com
+PrimaryContactParentName: PERICA
+PrimaryContactPlaceOfBitrh: LIPLJAN
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 3746838
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 07:51:18.911 INFORMATION   
+ CreateUpdateBankCustomer Response(1275296) : 
+ Zibel ID: 21372580
+    
+2017.12.13 08:03:06.662 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 08:03:06.975 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315339--------------------
+2017.12.13 08:03:06.975 INFORMATION   
+AccountStatus: Active
+AccountNumber: 
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: VUK JOVANOVIĆ
+AccountFirstName: VUK
+AccountLastName: JOVANOVIĆ
+PrimaryContactFirstName: VUK
+PrimaryContactLastName: JOVANOVIĆ
+BirthDate: 10/25/1984 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: 
+PrimaryContactDocumentIdIssueDate: 2014-03-20
+PrimaryContactDocumentIdNum: 005202514
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 3/20/2024 12:00:00 AM
+PrimaryContactJMBG: 2510984770052
+PrimaryContactPhoneNum: +381642643847
+EmailAddress: southpolenator@gmail.com
+PrimaryContactParentName: VUK
+PrimaryContactPlaceOfBitrh: VALJEVO
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 409835
+AddressStatus: Active
+AppartmentNum: 8
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 08:03:09.834 INFORMATION   
+ CreateUpdateBankCustomer Response(1315339) : 
+ Zibel ID: 5442829
+    
+2017.12.13 08:03:14.803 INFORMATION   CreateUpdateBankCustomerWS; saved external key TISID=5442829
+2017.12.13 08:24:01.245 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 08:24:01.963 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 779761--------------------
+2017.12.13 08:24:01.963 INFORMATION   
+AccountStatus: Active
+AccountNumber: 
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Dragan Milinković
+AccountFirstName: Dragan
+AccountLastName: Milinković
+PrimaryContactFirstName: Dragan
+PrimaryContactLastName: Milinković
+BirthDate: 9/28/1967 12:00:00 AM
+Citizenship: 
+PrimaryContactDocumentIdIssueAuthority: 
+PrimaryContactDocumentIdIssueDate: 2012-11-27
+PrimaryContactDocumentIdNum: 004138976
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 11/27/2022 12:00:00 AM
+PrimaryContactJMBG: 2809967770036
+PrimaryContactPhoneNum: +381642398413
+EmailAddress: milinkovicdragan@hotmail.com
+PrimaryContactParentName: SREĆKO
+PrimaryContactPlaceOfBitrh: VALJEVO
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 683035
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 08:24:06.854 INFORMATION   
+ CreateUpdateBankCustomer Response(779761) : 
+ Zibel ID: 3270961
+    
+2017.12.13 08:24:07.354 INFORMATION   CreateUpdateBankCustomerWS; saved external key TISID=3270961
+2017.12.13 08:25:01.747 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 08:25:02.075 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 779761--------------------
+2017.12.13 08:25:02.075 INFORMATION   
+AccountStatus: Active
+AccountNumber: 3270961
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Dragan Milinković
+AccountFirstName: Dragan
+AccountLastName: Milinković
+PrimaryContactFirstName: Dragan
+PrimaryContactLastName: Milinković
+BirthDate: 9/28/1967 12:00:00 AM
+Citizenship: 
+PrimaryContactDocumentIdIssueAuthority: 
+PrimaryContactDocumentIdIssueDate: 2012-11-27
+PrimaryContactDocumentIdNum: 004138976
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 11/27/2022 12:00:00 AM
+PrimaryContactJMBG: 2809967770036
+PrimaryContactPhoneNum: +381642398413
+EmailAddress: milinkovicdragan@hotmail.com
+PrimaryContactParentName: SREĆKO
+PrimaryContactPlaceOfBitrh: VALJEVO
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 683035
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 08:25:04.700 INFORMATION   
+ CreateUpdateBankCustomer Response(779761) : 
+ Zibel ID: 3270961
+    
+2017.12.13 08:45:04.234 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 08:45:04.562 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1316372--------------------
+2017.12.13 08:45:04.562 INFORMATION   
+AccountStatus: Active
+AccountNumber: 15729141
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: SVETLANA KUZMANOVIĆ
+AccountFirstName: SVETLANA
+AccountLastName: KUZMANOVIĆ
+PrimaryContactFirstName: SVETLANA
+PrimaryContactLastName: KUZMANOVIĆ
+BirthDate: 3/28/1970 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: BAJINA BAŠTA
+PrimaryContactDocumentIdIssueDate: 2014-05-19
+PrimaryContactDocumentIdNum: 005395718
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 5/19/2024 12:00:00 AM
+PrimaryContactJMBG: 2803970796013
+PrimaryContactPhoneNum: +381669724038
+EmailAddress: kuzmanovicceca@gmail.com
+PrimaryContactParentName: Dragan
+PrimaryContactPlaceOfBitrh: BAJINA BAŠTA
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 1686146
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 08:45:09.093 INFORMATION   
+ CreateUpdateBankCustomer Response(1316372) : 
+ Zibel ID: 15729141
+    
+2017.12.13 09:35:01.067 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 09:35:01.427 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1316374--------------------
+2017.12.13 09:35:01.427 INFORMATION   
+AccountStatus: Active
+AccountNumber: 434584
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Dušan Milutinović
+AccountFirstName: Dušan
+AccountLastName: Milutinović
+PrimaryContactFirstName: Dušan
+PrimaryContactLastName: Milutinović
+BirthDate: 2/16/1954 12:00:00 AM
+Citizenship: 
+PrimaryContactDocumentIdIssueAuthority: LUČANI (VAROŠICA)
+PrimaryContactDocumentIdIssueDate: 2013-03-12
+PrimaryContactDocumentIdNum: 004300327
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 3/12/2023 12:00:00 AM
+PrimaryContactJMBG: 1602954782836
+PrimaryContactPhoneNum: +381640206997
+EmailAddress: dusanmilutinovic123@gmail.com
+PrimaryContactParentName: Mijailo
+PrimaryContactPlaceOfBitrh: KOTRAŽA
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 152627
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 09:35:06.084 INFORMATION   
+ CreateUpdateBankCustomer Response(1316374) : 
+ Zibel ID: 434584
+    
+2017.12.13 09:45:01.445 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 09:45:01.774 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1316373--------------------
+2017.12.13 09:45:01.774 INFORMATION   
+AccountStatus: Active
+AccountNumber: 2850272
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: MIHALJ VIROVITICA
+AccountFirstName: MIHALJ
+AccountLastName: VIROVITICA
+PrimaryContactFirstName: MIHALJ
+PrimaryContactLastName: VIROVITICA
+BirthDate: 10/20/1962 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: SVILOJEVO
+PrimaryContactDocumentIdIssueDate: 2014-11-24
+PrimaryContactDocumentIdNum: 006099292
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 11/24/2024 12:00:00 AM
+PrimaryContactJMBG: 2010962810066
+PrimaryContactPhoneNum: +381642998570
+EmailAddress: mihaljvirovitica121@gmail.com
+PrimaryContactParentName: MIHALJ
+PrimaryContactPlaceOfBitrh: KULA
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 2814873
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 09:45:04.305 INFORMATION   
+ CreateUpdateBankCustomer Response(1316373) : 
+ Zibel ID: 2850272
+    
+2017.12.13 09:48:01.527 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 09:48:01.840 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315362--------------------
+2017.12.13 09:48:01.840 INFORMATION   
+AccountStatus: Active
+AccountNumber: 3343814
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: DUŠANKA ZDRAVKOVIĆ
+AccountFirstName: DUŠANKA
+AccountLastName: ZDRAVKOVIĆ
+PrimaryContactFirstName: DUŠANKA
+PrimaryContactLastName: ZDRAVKOVIĆ
+BirthDate: 8/4/1964 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: LESKOVAC
+PrimaryContactDocumentIdIssueDate: 2016-12-09
+PrimaryContactDocumentIdNum: 008905783
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 12/9/2026 12:00:00 AM
+PrimaryContactJMBG: 0408964177189
+PrimaryContactPhoneNum: +381652955920
+EmailAddress: duskag.64@gmail.com
+PrimaryContactParentName: JOVO
+PrimaryContactPlaceOfBitrh: SARAJEVO
+PrimaryContactStateOfBirth: Bosna i Hercegovina
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 3020882
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 09:48:04.387 INFORMATION   
+ CreateUpdateBankCustomer Response(1315362) : 
+ Zibel ID: 3343814
+    
+2017.12.13 09:58:01.084 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 09:58:01.428 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315323--------------------
+2017.12.13 09:58:01.428 INFORMATION   
+AccountStatus: Active
+AccountNumber: 15148820
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Aleksandar Petrovic
+AccountFirstName: Aleksandar
+AccountLastName: Petrovic
+PrimaryContactFirstName: Aleksandar
+PrimaryContactLastName: Petrovic
+BirthDate: 10/1/1975 12:00:00 AM
+Citizenship: 
+PrimaryContactDocumentIdIssueAuthority: NIŠ
+PrimaryContactDocumentIdIssueDate: 2014-12-20
+PrimaryContactDocumentIdNum: 006201551
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 12/20/2024 12:00:00 AM
+PrimaryContactJMBG: 0110975730018
+PrimaryContactPhoneNum: +381658665350
+EmailAddress: aleksandarglobal@gmail.com
+PrimaryContactParentName: Živorad
+PrimaryContactPlaceOfBitrh: NIŠ
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 1392251
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 09:58:03.974 INFORMATION   
+ CreateUpdateBankCustomer Response(1315323) : 
+ Zibel ID: 15148820
+    
+2017.12.13 10:02:00.923 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 10:02:01.267 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315323--------------------
+2017.12.13 10:02:01.267 INFORMATION   
+AccountStatus: Active
+AccountNumber: 15148820
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: ALEKSANDAR Petrović
+AccountFirstName: ALEKSANDAR
+AccountLastName: Petrović
+PrimaryContactFirstName: ALEKSANDAR
+PrimaryContactLastName: Petrović
+BirthDate: 10/1/1975 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: NIŠ
+PrimaryContactDocumentIdIssueDate: 2014-12-20
+PrimaryContactDocumentIdNum: 006201551
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 12/20/2024 12:00:00 AM
+PrimaryContactJMBG: 0110975730018
+PrimaryContactPhoneNum: +381658665350
+EmailAddress: aleksandarglobal@gmail.com
+PrimaryContactParentName: ŽIVORAD
+PrimaryContactPlaceOfBitrh: NIŠ
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 1392251
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 10:02:06.048 INFORMATION   
+ CreateUpdateBankCustomer Response(1315323) : 
+ Zibel ID: 15148820
+    
+2017.12.13 10:08:01.560 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 10:08:01.888 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315364--------------------
+2017.12.13 10:08:01.888 INFORMATION   
+AccountStatus: Active
+AccountNumber: 
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Akleksandra Spasić
+AccountFirstName: Akleksandra
+AccountLastName: Spasić
+PrimaryContactFirstName: Akleksandra
+PrimaryContactLastName: Spasić
+BirthDate: 7/22/1993 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: BLACE
+PrimaryContactDocumentIdIssueDate: 2011-08-08
+PrimaryContactDocumentIdNum: 003137485
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 8/8/2021 12:00:00 AM
+PrimaryContactJMBG: 2207993738523
+PrimaryContactPhoneNum: +381646532852
+EmailAddress: aleksandrasp@telekom.rs
+PrimaryContactParentName: Saša
+PrimaryContactPlaceOfBitrh: PROKUPLJE
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 128063
+AddressStatus: Active
+AppartmentNum: 6
+EntranceNum: 
+FloorNum: 3
+AddressType: Main
+2017.12.13 10:08:08.982 INFORMATION   
+ CreateUpdateBankCustomer Response(1315364) : 
+ Zibel ID: 13668319
+    
+2017.12.13 10:08:09.467 INFORMATION   CreateUpdateBankCustomerWS; saved external key TISID=13668319
+2017.12.13 10:17:01.615 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 10:17:01.928 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315365--------------------
+2017.12.13 10:17:01.928 INFORMATION   
+AccountStatus: Active
+AccountNumber: 
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Milanče Marković
+AccountFirstName: Milanče
+AccountLastName: Marković
+PrimaryContactFirstName: Milanče
+PrimaryContactLastName: Marković
+BirthDate: 11/4/1966 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: SMEDEREVO
+PrimaryContactDocumentIdIssueDate: 2016-11-14
+PrimaryContactDocumentIdNum: 008772397
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 11/14/2026 12:00:00 AM
+PrimaryContactJMBG: 0411966760052
+PrimaryContactPhoneNum: +381647096942
+EmailAddress: milancemarkovic749@gmail.com
+PrimaryContactParentName: Tomislav
+PrimaryContactPlaceOfBitrh: SMEDEREVO
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 603403
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 10:17:04.912 INFORMATION   
+ CreateUpdateBankCustomer Response(1315365) : 
+ Zibel ID: 5206903
+    
+2017.12.13 10:17:05.450 INFORMATION   CreateUpdateBankCustomerWS; saved external key TISID=5206903
+2017.12.13 10:25:03.957 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 10:25:04.285 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 102375--------------------
+2017.12.13 10:25:04.285 INFORMATION   
+AccountStatus: Active
+AccountNumber: 
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Marko Petrović
+AccountFirstName: Marko
+AccountLastName: Petrović
+PrimaryContactFirstName: Marko
+PrimaryContactLastName: Petrović
+BirthDate: 8/13/1982 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: KRAGUJEVAC
+PrimaryContactDocumentIdIssueDate: 2015-11-06
+PrimaryContactDocumentIdNum: 007451668
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 11/6/2025 12:00:00 AM
+PrimaryContactJMBG: 1308982720026
+PrimaryContactPhoneNum: +381648345090
+EmailAddress: marko.petrovic2@dunav.com
+PrimaryContactParentName: Dragoslav
+PrimaryContactPlaceOfBitrh: KRAGUJEVAC
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 159627
+AddressStatus: Active
+AppartmentNum: 37
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 10:25:10.410 INFORMATION   
+ CreateUpdateBankCustomer Response(102375) : 
+ Zibel ID: 5469362
+    
+2017.12.13 10:25:10.926 INFORMATION   CreateUpdateBankCustomerWS; saved external key TISID=5469362
+2017.12.13 10:26:00.922 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 10:26:01.266 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 102375--------------------
+2017.12.13 10:26:01.266 INFORMATION   
+AccountStatus: Active
+AccountNumber: 5469362
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Marko Petrović
+AccountFirstName: Marko
+AccountLastName: Petrović
+PrimaryContactFirstName: Marko
+PrimaryContactLastName: Petrović
+BirthDate: 8/13/1982 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: KRAGUJEVAC
+PrimaryContactDocumentIdIssueDate: 2015-11-06
+PrimaryContactDocumentIdNum: 007451668
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 11/6/2025 12:00:00 AM
+PrimaryContactJMBG: 1308982720026
+PrimaryContactPhoneNum: +381648345090
+EmailAddress: marko.petrovic2@dunav.com
+PrimaryContactParentName: Dragoslav
+PrimaryContactPlaceOfBitrh: KRAGUJEVAC
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 159627
+AddressStatus: Active
+AppartmentNum: 37
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 10:26:04.031 INFORMATION   
+ CreateUpdateBankCustomer Response(102375) : 
+ Zibel ID: 5469362
+    
+2017.12.13 10:36:01.626 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 10:36:01.954 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315364--------------------
+2017.12.13 10:36:01.954 INFORMATION   
+AccountStatus: Active
+AccountNumber: 13668319
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Aleksandra SPASIĆ
+AccountFirstName: Aleksandra
+AccountLastName: SPASIĆ
+PrimaryContactFirstName: Aleksandra
+PrimaryContactLastName: SPASIĆ
+BirthDate: 7/22/1993 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: BLACE
+PrimaryContactDocumentIdIssueDate: 2011-08-08
+PrimaryContactDocumentIdNum: 003137485
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 8/8/2021 12:00:00 AM
+PrimaryContactJMBG: 2207993738523
+PrimaryContactPhoneNum: +381646532852
+EmailAddress: aleksandrasp@telekom.rs
+PrimaryContactParentName: SAŠA
+PrimaryContactPlaceOfBitrh: PROKUPLJE
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 128063
+AddressStatus: Active
+AppartmentNum: 6
+EntranceNum: 
+FloorNum: 3
+AddressType: Main
+2017.12.13 10:36:06.536 INFORMATION   
+ CreateUpdateBankCustomer Response(1315364) : 
+ Zibel ID: 13668319
+    
+2017.12.13 10:39:00.787 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 10:39:01.115 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1316386--------------------
+2017.12.13 10:39:01.115 INFORMATION   
+AccountStatus: Active
+AccountNumber: 21394912
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Slavojka Tomić
+AccountFirstName: Slavojka
+AccountLastName: Tomić
+PrimaryContactFirstName: Slavojka
+PrimaryContactLastName: Tomić
+BirthDate: 10/9/1950 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: PANČEVO
+PrimaryContactDocumentIdIssueDate: 2016-12-03
+PrimaryContactDocumentIdNum: 008873102
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 12/3/2026 12:00:00 AM
+PrimaryContactJMBG: 0910950155031
+PrimaryContactPhoneNum: +381612338740
+EmailAddress: sekatomic1950@gmail.com
+PrimaryContactParentName: Vlado
+PrimaryContactPlaceOfBitrh: Mostar
+PrimaryContactStateOfBirth: Bosna i Hercegovina
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 224537
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 10:39:03.771 INFORMATION   
+ CreateUpdateBankCustomer Response(1316386) : 
+ Zibel ID: 21394912
+    
+2017.12.13 10:45:01.853 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 10:45:04.759 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1316387--------------------
+2017.12.13 10:45:04.759 INFORMATION   
+AccountStatus: Active
+AccountNumber: 12697047
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Dragoljub SEKULIĆ
+AccountFirstName: Dragoljub
+AccountLastName: SEKULIĆ
+PrimaryContactFirstName: Dragoljub
+PrimaryContactLastName: SEKULIĆ
+BirthDate: 11/30/1964 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: NOVI SAD
+PrimaryContactDocumentIdIssueDate: 2014-07-11
+PrimaryContactDocumentIdNum: 005593769
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 7/11/2024 12:00:00 AM
+PrimaryContactJMBG: 3011964800149
+PrimaryContactPhoneNum: +381640352869
+EmailAddress: dragoljub.sekulic64@gmail.com
+PrimaryContactParentName: JOVA
+PrimaryContactPlaceOfBitrh: ŠAJKAŠ
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 2874822
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 10:45:13.420 INFORMATION   
+ CreateUpdateBankCustomer Response(1316387) : 
+ Zibel ID: 12697047
+    
+2017.12.13 10:59:01.384 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 10:59:01.790 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315367--------------------
+2017.12.13 10:59:01.790 INFORMATION   
+AccountStatus: Active
+AccountNumber: 1491134
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: MILENA ĆUĆA
+AccountFirstName: MILENA
+AccountLastName: ĆUĆA
+PrimaryContactFirstName: MILENA
+PrimaryContactLastName: ĆUĆA
+BirthDate: 6/19/1948 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: KOVIN
+PrimaryContactDocumentIdIssueDate: 2016-02-05
+PrimaryContactDocumentIdNum: 007761450
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 2/5/2026 12:00:00 AM
+PrimaryContactJMBG: 1906948375802
+PrimaryContactPhoneNum: +381658040340
+EmailAddress: dragisamcuca99@gmail.com
+PrimaryContactParentName: RADE
+PrimaryContactPlaceOfBitrh: Donji Rajić
+PrimaryContactStateOfBirth: Hrvatska
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 575292
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 10:59:04.619 INFORMATION   
+ CreateUpdateBankCustomer Response(1315367) : 
+ Zibel ID: 1491134
+    
+2017.12.13 11:28:00.929 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 11:28:01.241 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1051982--------------------
+2017.12.13 11:28:01.241 INFORMATION   
+AccountStatus: Active
+AccountNumber: 1484597
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: DRAGAN JOVIĆ
+AccountFirstName: DRAGAN
+AccountLastName: JOVIĆ
+PrimaryContactFirstName: DRAGAN
+PrimaryContactLastName: JOVIĆ
+BirthDate: 1/12/1979 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: BEOGRAD-VOŽDOVAC
+PrimaryContactDocumentIdIssueDate: 2015-03-12
+PrimaryContactDocumentIdNum: 006508516
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 3/12/2025 12:00:00 AM
+PrimaryContactJMBG: 1201979710452
+PrimaryContactPhoneNum: +381646513719
+EmailAddress: dragantjovic@telekom.rs
+PrimaryContactParentName: TOMISLAV
+PrimaryContactPlaceOfBitrh: BEOGRAD-SAVSKI VENAC
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 509923
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 11:28:08.382 INFORMATION   
+ CreateUpdateBankCustomer Response(1051982) : 
+ Zibel ID: 1484597
+    
+2017.12.13 11:44:01.799 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 11:44:02.409 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315369--------------------
+2017.12.13 11:44:02.409 INFORMATION   
+AccountStatus: Active
+AccountNumber: 3085552
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: IVAN MITIĆ
+AccountFirstName: IVAN
+AccountLastName: MITIĆ
+PrimaryContactFirstName: IVAN
+PrimaryContactLastName: MITIĆ
+BirthDate: 10/20/1983 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: VRANJE
+PrimaryContactDocumentIdIssueDate: 2015-02-23
+PrimaryContactDocumentIdNum: 006423985
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 2/23/2025 12:00:00 AM
+PrimaryContactJMBG: 2010983742028
+PrimaryContactPhoneNum: +381654477990
+EmailAddress: ivanmiticvr83@gmail.com
+PrimaryContactParentName: ZORAN
+PrimaryContactPlaceOfBitrh: VRANJE
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 1300040
+AddressStatus: Active
+AppartmentNum: 1
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 11:44:07.068 INFORMATION   
+ CreateUpdateBankCustomer Response(1315369) : 
+ Zibel ID: 3085552
+    
+2017.12.13 11:54:01.497 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 11:54:01.825 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1318482--------------------
+2017.12.13 11:54:01.825 INFORMATION   
+AccountStatus: Active
+AccountNumber: 3461654
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: GORAN STEVANOVIĆ
+AccountFirstName: GORAN
+AccountLastName: STEVANOVIĆ
+PrimaryContactFirstName: GORAN
+PrimaryContactLastName: STEVANOVIĆ
+BirthDate: 6/16/1972 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: 
+PrimaryContactDocumentIdIssueDate: 2016-03-04
+PrimaryContactDocumentIdNum: 007882454
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 3/4/2026 12:00:00 AM
+PrimaryContactJMBG: 1606972850062
+PrimaryContactPhoneNum: +381658086100
+EmailAddress: stevanovicg72@gmail.com
+PrimaryContactParentName: MILIVOJE
+PrimaryContactPlaceOfBitrh: KNIĆANIN
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 283976
+AddressStatus: Active
+AppartmentNum: 38 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 11:54:06.482 INFORMATION   
+ CreateUpdateBankCustomer Response(1318482) : 
+ Zibel ID: 3461654
+    
+2017.12.13 12:07:01.442 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 12:07:01.771 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1269786--------------------
+2017.12.13 12:07:01.771 INFORMATION   
+AccountStatus: Active
+AccountNumber: 20107930
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: UROŠ STOJKOVIĆ
+AccountFirstName: UROŠ
+AccountLastName: STOJKOVIĆ
+PrimaryContactFirstName: UROŠ
+PrimaryContactLastName: STOJKOVIĆ
+BirthDate: 5/8/1982 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: BEOGRAD-ZVEZDARA
+PrimaryContactDocumentIdIssueDate: 2016-02-22
+PrimaryContactDocumentIdNum: 007824148
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 2/22/2026 12:00:00 AM
+PrimaryContactJMBG: 0805982710101
+PrimaryContactPhoneNum: +381649444314
+EmailAddress: ustojkovic4@gmail.com
+PrimaryContactParentName: ĐORĐE
+PrimaryContactPlaceOfBitrh: BEOGRAD-SAVSKI VENAC
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 358813
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 12:07:04.401 INFORMATION   
+ CreateUpdateBankCustomer Response(1269786) : 
+ Zibel ID: 20107930
+    
+2017.12.13 12:39:00.999 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 12:39:01.421 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 699776--------------------
+2017.12.13 12:39:01.421 INFORMATION   
+AccountStatus: Active
+AccountNumber: 3338800
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: MARIO BOSANČIĆ
+AccountFirstName: MARIO
+AccountLastName: BOSANČIĆ
+PrimaryContactFirstName: MARIO
+PrimaryContactLastName: BOSANČIĆ
+BirthDate: 5/29/1987 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: BEOGRAD-PALILULA
+PrimaryContactDocumentIdIssueDate: 2015-02-25
+PrimaryContactDocumentIdNum: 006437912
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 10/31/2019 12:00:00 AM
+PrimaryContactJMBG: 2905987710268
+PrimaryContactPhoneNum: +381652770487
+EmailAddress: mario.bosancic@gmail.com
+PrimaryContactParentName: RADE
+PrimaryContactPlaceOfBitrh: BEOGRAD-ZVEZDARA
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 369645
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 12:39:04.331 INFORMATION   
+ CreateUpdateBankCustomer Response(699776) : 
+ Zibel ID: 3338800
+    
+2017.12.13 12:44:01.284 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 12:44:01.675 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315373--------------------
+2017.12.13 12:44:01.675 INFORMATION   
+AccountStatus: Active
+AccountNumber: 5124691
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Vukašin KORBOVLJANOVIĆ
+AccountFirstName: Vukašin
+AccountLastName: KORBOVLJANOVIĆ
+PrimaryContactFirstName: Vukašin
+PrimaryContactLastName: KORBOVLJANOVIĆ
+BirthDate: 2/15/1961 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: KLADOVO
+PrimaryContactDocumentIdIssueDate: 2015-03-13
+PrimaryContactDocumentIdNum: 006512769
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 3/13/2025 12:00:00 AM
+PrimaryContactJMBG: 1502961752514
+PrimaryContactPhoneNum: +381647059839
+EmailAddress: korbovljanovicvukasin@gmail.com
+PrimaryContactParentName: VUKAŠIN
+PrimaryContactPlaceOfBitrh: VAJUGA
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 4179361
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 12:44:04.308 INFORMATION   
+ CreateUpdateBankCustomer Response(1315373) : 
+ Zibel ID: 5124691
+    
+2017.12.13 12:55:01.471 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 12:55:01.800 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1317454--------------------
+2017.12.13 12:55:01.800 INFORMATION   
+AccountStatus: Active
+AccountNumber: 3609487
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Đorđe Govedarica
+AccountFirstName: Đorđe
+AccountLastName: Govedarica
+PrimaryContactFirstName: Đorđe
+PrimaryContactLastName: Govedarica
+BirthDate: 6/29/1983 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: NIŠ-MEDIJANA
+PrimaryContactDocumentIdIssueDate: 2017-01-09
+PrimaryContactDocumentIdNum: 009083815
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 1/9/2027 12:00:00 AM
+PrimaryContactJMBG: 2906983914655
+PrimaryContactPhoneNum: +381616658071
+EmailAddress: djole83@gmail.com
+PrimaryContactParentName: Stanko
+PrimaryContactPlaceOfBitrh: PRIŠTINA
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 1377929
+AddressStatus: Active
+AppartmentNum: 1
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 12:55:06.268 INFORMATION   
+ CreateUpdateBankCustomer Response(1317454) : 
+ Zibel ID: 3609487
+    
+2017.12.13 13:10:01.390 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 13:10:01.765 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315375--------------------
+2017.12.13 13:10:01.765 INFORMATION   
+AccountStatus: Active
+AccountNumber: 1824805
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: SVETOZAR MARINKOVIĆ
+AccountFirstName: SVETOZAR
+AccountLastName: MARINKOVIĆ
+PrimaryContactFirstName: SVETOZAR
+PrimaryContactLastName: MARINKOVIĆ
+BirthDate: 7/26/1961 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: ODŽACI
+PrimaryContactDocumentIdIssueDate: 2015-12-14
+PrimaryContactDocumentIdNum: 007575303
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 12/14/2025 12:00:00 AM
+PrimaryContactJMBG: 2607961810042
+PrimaryContactPhoneNum: +381652745537
+EmailAddress: bisasekimar@hotmail.com
+PrimaryContactParentName: VUKOSAVA
+PrimaryContactPlaceOfBitrh: ODŽACI
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 845556
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 13:10:04.632 INFORMATION   
+ CreateUpdateBankCustomer Response(1315375) : 
+ Zibel ID: 1824805
+    
+2017.12.13 13:15:01.755 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 13:15:02.068 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315378--------------------
+2017.12.13 13:15:02.068 INFORMATION   
+AccountStatus: Active
+AccountNumber: 5095867
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: MARTIN BOŽIĆ
+AccountFirstName: MARTIN
+AccountLastName: BOŽIĆ
+PrimaryContactFirstName: MARTIN
+PrimaryContactLastName: BOŽIĆ
+BirthDate: 8/26/1988 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: BOLJEVAC
+PrimaryContactDocumentIdIssueDate: 2016-02-08
+PrimaryContactDocumentIdNum: 007767039
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 2/8/2026 12:00:00 AM
+PrimaryContactJMBG: 2608988750021
+PrimaryContactPhoneNum: +381652725186
+EmailAddress: martinbozickec@gmail.com
+PrimaryContactParentName: Miroslav
+PrimaryContactPlaceOfBitrh: ZAJEČAR
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 2626982
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 13:15:05.036 INFORMATION   
+ CreateUpdateBankCustomer Response(1315378) : 
+ Zibel ID: 5095867
+    
+2017.12.13 13:16:01.130 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 13:16:01.427 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315380--------------------
+2017.12.13 13:16:01.427 INFORMATION   
+AccountStatus: Active
+AccountNumber: 
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Momir Bašović
+AccountFirstName: Momir
+AccountLastName: Bašović
+PrimaryContactFirstName: Momir
+PrimaryContactLastName: Bašović
+BirthDate: 7/14/1970 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: BEOGRAD-ČUKARICA
+PrimaryContactDocumentIdIssueDate: 2015-10-16
+PrimaryContactDocumentIdNum: 007383294
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 10/16/2025 12:00:00 AM
+PrimaryContactJMBG: 1407970710252
+PrimaryContactPhoneNum: +381652034422
+EmailAddress: momir.basovic@gmail.com
+PrimaryContactParentName: Miodrag
+PrimaryContactPlaceOfBitrh: BEOGRAD-SAVSKI VENAC
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 286958
+AddressStatus: Active
+AppartmentNum: 1
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 13:16:04.349 INFORMATION   
+ CreateUpdateBankCustomer Response(1315380) : 
+ Zibel ID: 1036305
+    
+2017.12.13 13:16:04.833 INFORMATION   CreateUpdateBankCustomerWS; saved external key TISID=1036305
+2017.12.13 13:17:01.511 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 13:17:01.839 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315380--------------------
+2017.12.13 13:17:01.839 INFORMATION   
+AccountStatus: Active
+AccountNumber: 1036305
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Momir Bašović
+AccountFirstName: Momir
+AccountLastName: Bašović
+PrimaryContactFirstName: Momir
+PrimaryContactLastName: Bašović
+BirthDate: 7/14/1970 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: BEOGRAD-ČUKARICA
+PrimaryContactDocumentIdIssueDate: 2015-10-16
+PrimaryContactDocumentIdNum: 007383294
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 10/16/2025 12:00:00 AM
+PrimaryContactJMBG: 1407970710252
+PrimaryContactPhoneNum: +381652034422
+EmailAddress: momir.basovic@gmail.com
+PrimaryContactParentName: Miodrag
+PrimaryContactPlaceOfBitrh: BEOGRAD-SAVSKI VENAC
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 286958
+AddressStatus: Active
+AppartmentNum: 1
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 13:17:04.638 INFORMATION   
+ CreateUpdateBankCustomer Response(1315380) : 
+ Zibel ID: 1036305
+    
+2017.12.13 13:19:04.003 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 13:19:04.347 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315380--------------------
+2017.12.13 13:19:04.347 INFORMATION   
+AccountStatus: Active
+AccountNumber: 1036305
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: MOMIR BAŠOVIĆ
+AccountFirstName: MOMIR
+AccountLastName: BAŠOVIĆ
+PrimaryContactFirstName: MOMIR
+PrimaryContactLastName: BAŠOVIĆ
+BirthDate: 7/14/1970 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: BEOGRAD-ČUKARICA
+PrimaryContactDocumentIdIssueDate: 2015-10-16
+PrimaryContactDocumentIdNum: 007383294
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 10/16/2025 12:00:00 AM
+PrimaryContactJMBG: 1407970710252
+PrimaryContactPhoneNum: +381652034422
+EmailAddress: momir.basovic@gmail.com
+PrimaryContactParentName: MIODRAG
+PrimaryContactPlaceOfBitrh: BEOGRAD-SAVSKI VENAC
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 286958
+AddressStatus: Active
+AppartmentNum: 1
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 13:19:07.163 INFORMATION   
+ CreateUpdateBankCustomer Response(1315380) : 
+ Zibel ID: 1036305
+    
+2017.12.13 13:31:01.584 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 13:31:01.912 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1318492--------------------
+2017.12.13 13:31:01.912 INFORMATION   
+AccountStatus: Active
+AccountNumber: 
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Ivan Jovanović
+AccountFirstName: Ivan
+AccountLastName: Jovanović
+PrimaryContactFirstName: Ivan
+PrimaryContactLastName: Jovanović
+BirthDate: 12/21/1978 12:00:00 AM
+Citizenship: 
+PrimaryContactDocumentIdIssueAuthority: 
+PrimaryContactDocumentIdIssueDate: 2013-08-21
+PrimaryContactDocumentIdNum: 004623640
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 8/21/2023 12:00:00 AM
+PrimaryContactJMBG: 2112978730027
+PrimaryContactPhoneNum: +381642282790
+EmailAddress: jovanovic.mail@gmail.com
+PrimaryContactParentName: Ljubomir
+PrimaryContactPlaceOfBitrh: NIŠ-CRVENI KRST
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 1438329
+AddressStatus: Active
+AppartmentNum: 6
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 13:31:08.867 INFORMATION   
+ CreateUpdateBankCustomer Response(1318492) : 
+ Zibel ID: 2191907
+    
+2017.12.13 13:31:09.352 INFORMATION   CreateUpdateBankCustomerWS; saved external key TISID=2191907
+2017.12.13 14:47:01.753 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 14:47:02.097 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1318593--------------------
+2017.12.13 14:47:02.097 INFORMATION   
+AccountStatus: Active
+AccountNumber: 
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Radomir Stojanović
+AccountFirstName: Radomir
+AccountLastName: Stojanović
+PrimaryContactFirstName: Radomir
+PrimaryContactLastName: Stojanović
+BirthDate: 9/5/1987 12:00:00 AM
+Citizenship: 
+PrimaryContactDocumentIdIssueAuthority: 
+PrimaryContactDocumentIdIssueDate: 2014-12-12
+PrimaryContactDocumentIdNum: 006174860
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 12/12/2024 12:00:00 AM
+PrimaryContactJMBG: 0509987910046
+PrimaryContactPhoneNum: +381604443718
+EmailAddress: rrs.arhitekt@gmail.com
+PrimaryContactParentName: Milosav
+PrimaryContactPlaceOfBitrh: PRIŠTINA
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 3973656
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 14:47:05.190 INFORMATION   
+ CreateUpdateBankCustomer Response(1318593) : 
+ Zibel ID: 3792066
+    
+2017.12.13 14:47:05.706 INFORMATION   CreateUpdateBankCustomerWS; saved external key TISID=3792066
+2017.12.13 15:26:01.545 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 15:26:02.217 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1309721--------------------
+2017.12.13 15:26:02.217 INFORMATION   
+AccountStatus: Active
+AccountNumber: 5344161
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: ALEKSANDAR CVETKOVIĆ
+AccountFirstName: ALEKSANDAR
+AccountLastName: CVETKOVIĆ
+PrimaryContactFirstName: ALEKSANDAR
+PrimaryContactLastName: CVETKOVIĆ
+BirthDate: 12/5/1990 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: SMEDEREVO
+PrimaryContactDocumentIdIssueDate: 2013-11-08
+PrimaryContactDocumentIdNum: 004809566
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 11/8/2023 12:00:00 AM
+PrimaryContactJMBG: 0512990760064
+PrimaryContactPhoneNum: +381695005959
+EmailAddress: cwelesd90@gmail.com
+PrimaryContactParentName: SINIŠA
+PrimaryContactPlaceOfBitrh: SMEDEREVO
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 547765
+AddressStatus: Active
+AppartmentNum: 34
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 15:26:07.121 INFORMATION   
+ CreateUpdateBankCustomer Response(1309721) : 
+ Zibel ID: 5344161
+    
+2017.12.13 16:17:01.527 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 16:17:01.855 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1308702--------------------
+2017.12.13 16:17:01.855 INFORMATION   
+AccountStatus: Active
+AccountNumber: 922872
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: SLOBODAN MITROVIĆ
+AccountFirstName: SLOBODAN
+AccountLastName: MITROVIĆ
+PrimaryContactFirstName: SLOBODAN
+PrimaryContactLastName: MITROVIĆ
+BirthDate: 10/7/1949 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: BEOGRAD-ZVEZDARA
+PrimaryContactDocumentIdIssueDate: 2016-05-12
+PrimaryContactDocumentIdNum: 008186154
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 5/12/2056 12:00:00 AM
+PrimaryContactJMBG: 0710949710073
+PrimaryContactPhoneNum: +381655186614
+EmailAddress: bobanmacor59@gmail.com
+PrimaryContactParentName: MILORAD
+PrimaryContactPlaceOfBitrh: UŽICE
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 285329
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 16:17:08.263 INFORMATION   
+ CreateUpdateBankCustomer Response(1308702) : 
+ Zibel ID: 922872
+    
+2017.12.13 16:49:00.904 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 16:49:01.311 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1317465--------------------
+2017.12.13 16:49:01.311 INFORMATION   
+AccountStatus: Active
+AccountNumber: 14465822
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: MARKO ĐURĐEVIĆ
+AccountFirstName: MARKO
+AccountLastName: ĐURĐEVIĆ
+PrimaryContactFirstName: MARKO
+PrimaryContactLastName: ĐURĐEVIĆ
+BirthDate: 3/25/1988 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: LAZAREVAC
+PrimaryContactDocumentIdIssueDate: 2012-07-13
+PrimaryContactDocumentIdNum: 003857360
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 7/13/2022 12:00:00 AM
+PrimaryContactJMBG: 2503988710392
+PrimaryContactPhoneNum: +381652018529
+EmailAddress: djura88la@gmail.com
+PrimaryContactParentName: DRAGAN
+PrimaryContactPlaceOfBitrh: LAZAREVAC
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 1697015
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 16:49:03.545 INFORMATION   
+ CreateUpdateBankCustomer Response(1317465) : 
+ Zibel ID: 14465822
+    
+2017.12.13 17:56:06.137 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 17:56:06.481 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1312051--------------------
+2017.12.13 17:56:06.481 INFORMATION   
+AccountStatus: Active
+AccountNumber: 21392973
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: VOJKAN SAVELIĆ
+AccountFirstName: VOJKAN
+AccountLastName: SAVELIĆ
+PrimaryContactFirstName: VOJKAN
+PrimaryContactLastName: SAVELIĆ
+BirthDate: 11/27/1986 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: KRUŠEVAC
+PrimaryContactDocumentIdIssueDate: 2017-11-03
+PrimaryContactDocumentIdNum: 009898541
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 11/3/2027 12:00:00 AM
+PrimaryContactJMBG: 2711986781014
+PrimaryContactPhoneNum: +381605757927
+EmailAddress: vojkansaveljic501@gmail.com
+PrimaryContactParentName: VESKO
+PrimaryContactPlaceOfBitrh: KRUŠEVAC
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 1652989
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 17:56:08.965 INFORMATION   
+ CreateUpdateBankCustomer Response(1312051) : 
+ Zibel ID: 21392973
+    
+2017.12.13 17:59:03.795 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 17:59:04.123 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1314098--------------------
+2017.12.13 17:59:04.123 INFORMATION   
+AccountStatus: Active
+AccountNumber: 3040421
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: LJUBO KRNETA
+AccountFirstName: LJUBO
+AccountLastName: KRNETA
+PrimaryContactFirstName: LJUBO
+PrimaryContactLastName: KRNETA
+BirthDate: 8/24/1958 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: ŠID
+PrimaryContactDocumentIdIssueDate: 2015-02-12
+PrimaryContactDocumentIdNum: 006389178
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 2/12/2025 12:00:00 AM
+PrimaryContactJMBG: 2408958382126
+PrimaryContactPhoneNum: +381643645269
+EmailAddress: ljubokrneta@mts.rs
+PrimaryContactParentName: NIKOLA
+PrimaryContactPlaceOfBitrh: Knin
+PrimaryContactStateOfBirth: Hrvatska
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 1853063
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 17:59:08.681 INFORMATION   
+ CreateUpdateBankCustomer Response(1314098) : 
+ Zibel ID: 3040421
+    
+2017.12.13 18:01:03.277 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 18:01:03.621 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1315383--------------------
+2017.12.13 18:01:03.621 INFORMATION   
+AccountStatus: Active
+AccountNumber: 3753338
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: Miodrag Dulić
+AccountFirstName: Miodrag
+AccountLastName: Dulić
+PrimaryContactFirstName: Miodrag
+PrimaryContactLastName: Dulić
+BirthDate: 3/29/1966 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: INĐIJA
+PrimaryContactDocumentIdIssueDate: 2013-01-16
+PrimaryContactDocumentIdNum: 004207517
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 1/16/2023 12:00:00 AM
+PrimaryContactJMBG: 2903966301802
+PrimaryContactPhoneNum: +381658648880
+EmailAddress: dulicmiodrag66@mts.rs
+PrimaryContactParentName: Gojko
+PrimaryContactPlaceOfBitrh: NOVA GRADIŠKA
+PrimaryContactStateOfBirth: Hrvatska
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 1734671
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 18:01:06.293 INFORMATION   
+ CreateUpdateBankCustomer Response(1315383) : 
+ Zibel ID: 3753338
+    
+2017.12.13 18:43:02.869 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 18:43:03.197 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 1316404--------------------
+2017.12.13 18:43:03.197 INFORMATION   
+AccountStatus: Active
+AccountNumber: 5547063
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: MIRA KOVAČEVIĆ
+AccountFirstName: MIRA
+AccountLastName: KOVAČEVIĆ
+PrimaryContactFirstName: MIRA
+PrimaryContactLastName: KOVAČEVIĆ
+BirthDate: 11/1/1965 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: BEOGRAD-ČUKARICA
+PrimaryContactDocumentIdIssueDate: 2012-10-11
+PrimaryContactDocumentIdNum: 004062889
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 10/11/2022 12:00:00 AM
+PrimaryContactJMBG: 0111965107416
+PrimaryContactPhoneNum: +381642258683
+EmailAddress: miraznik@gmail.com
+PrimaryContactParentName: MIĆO
+PrimaryContactPlaceOfBitrh: sanski most
+PrimaryContactStateOfBirth: Bosna i Hercegovina
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 3978047
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 18:43:09.619 INFORMATION   
+ CreateUpdateBankCustomer Response(1316404) : 
+ Zibel ID: 5547063
+    
+2017.12.13 19:35:05.951 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 19:35:06.279 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 259220--------------------
+2017.12.13 19:35:06.279 INFORMATION   
+AccountStatus: Active
+AccountNumber: 5590517
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: VLADIMIR MILOJKOVIĆ
+AccountFirstName: VLADIMIR
+AccountLastName: MILOJKOVIĆ
+PrimaryContactFirstName: VLADIMIR
+PrimaryContactLastName: MILOJKOVIĆ
+BirthDate: 6/29/1979 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: VRNJAČKA BANJA
+PrimaryContactDocumentIdIssueDate: 2011-10-27
+PrimaryContactDocumentIdNum: 003345475
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 10/27/2021 12:00:00 AM
+PrimaryContactJMBG: 2906979710336
+PrimaryContactPhoneNum: 
+EmailAddress: vladimirmilojkovic79@mts.rs
+PrimaryContactParentName: LJUBIŠA
+PrimaryContactPlaceOfBitrh: BEOGRAD-SAVSKI VENAC
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 3726829
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 19:35:08.904 INFORMATION   
+ CreateUpdateBankCustomer Response(259220) : 
+ Zibel ID: 5590517
+    
+2017.12.13 19:45:04.223 INFORMATION   
+CreateUpdateBankCustomerWS:endpointAddress =http://10.1.21.245:7820/CreateUpdateBankCustomerWS
+2017.12.13 19:45:04.708 INFORMATION   
+----------CreateUpdateBankCustomer request for customer id 259220--------------------
+2017.12.13 19:45:04.708 INFORMATION   
+AccountStatus: Active
+AccountNumber: 5590517
+AccountClass: Customer
+AccountType: Fizičko lice
+AccountName: VLADIMIR MILOJKOVIĆ
+AccountFirstName: VLADIMIR
+AccountLastName: MILOJKOVIĆ
+PrimaryContactFirstName: VLADIMIR
+PrimaryContactLastName: MILOJKOVIĆ
+BirthDate: 6/29/1979 12:00:00 AM
+Citizenship: Srbija
+PrimaryContactDocumentIdIssueAuthority: VRNJAČKA BANJA
+PrimaryContactDocumentIdIssueDate: 2011-10-27
+PrimaryContactDocumentIdNum: 003345475
+PrimaryContactDocumentIdType: Lična karta
+PrimaryContactDocumentIdValidUntil: 10/27/2021 12:00:00 AM
+PrimaryContactJMBG: 2906979710336
+PrimaryContactPhoneNum: +38166425544
+EmailAddress: vladimirmilojkovic79@mts.rs
+PrimaryContactParentName: LJUBIŠA
+PrimaryContactPlaceOfBitrh: BEOGRAD-SAVSKI VENAC
+PrimaryContactStateOfBirth: Srbija
+AccountContactStatus: Active
+AccountContactRole: Customer
+AccountContactRoleStatus: Primary
+MultipleAddressName: 3726829
+AddressStatus: Active
+AppartmentNum: 
+EntranceNum: 
+FloorNum: 
+AddressType: Main
+2017.12.13 19:45:07.224 INFORMATION   
+ CreateUpdateBankCustomer Response(259220) : 
+ Zibel ID: 5590517
+    
